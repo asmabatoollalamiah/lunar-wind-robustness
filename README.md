@@ -91,8 +91,3 @@ Full tables: `results/summary.csv`, `results/robustness_drop.csv`, `results/effi
 * DQN reached 200 sooner in calm air (338k vs 504k steps) but was unstable: 7 of 10 DQN runs
   ended far below their best, and DQN gained nothing from random wind.
 
-## AI use
-
-I used Claude (Anthropic) to help write and debug the code, run the experiments, and draft the
-slides and narration. I reviewed the code, checked the numbers against the raw result files,
-and made the final decisions on the design and on what to report.
