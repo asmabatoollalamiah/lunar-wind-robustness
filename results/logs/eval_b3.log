@@ -1,0 +1,7 @@
+ppo_rand_s4_best wind=0: mean 234.5
+ppo_rand_s4_best wind=5: mean 230.0
+ppo_rand_s4_best wind=10: mean 209.0
+ppo_rand_s4_best wind=15: mean 148.3
+ppo_rand_s4_best wind=17.5: mean 86.0
+ppo_rand_s4_best wind=20: mean 10.6
+ppo_rand_s4_best wind=22.5: mean -25.8
